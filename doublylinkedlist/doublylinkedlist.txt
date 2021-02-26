@@ -1,0 +1,30 @@
+{
+ { data : 1,
+ prev : null,
+ next : 2
+ }  { data : 2,
+ prev : 1,
+ next : 3
+ }  { data : 3,
+ prev : 2,
+ next : 4
+ }  { data : 4,
+ prev : 3,
+ next : 5
+ }  { data : 5,
+ prev : 4,
+ next : 6
+ }  { data : 6,
+ prev : 5,
+ next : 7
+ }  { data : 7,
+ prev : 6,
+ next : 8
+ }  { data : 8,
+ prev : 7,
+ next : 9
+ }  { data : 9,
+ prev : 8,
+ next : null
+ } 
+}
